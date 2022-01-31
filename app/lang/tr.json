@@ -1,0 +1,11 @@
+ {
+
+   "dil":{
+     "args0": "Lütfen `ayarla` veya `sıfırla` seçeneklerini kullanın.",
+    "args1": "Bir Seçenek Belirtiniz `en` / `tr`",
+     "dilsecenegiyok": "Böyle bir dil seçeneği yok.\n Mevcut dil seçenekleri",
+     "sifirlandi": "Dil başarıyla sıfırlandı. Varsayılan diliniz artık İngilizce\nLanguage has been reset successfully. Your default language is now English"
+   }
+
+
+ }

@@ -1,0 +1,5 @@
+{
+    "BotSettings": {
+        "mongodburl": "mongodb+srv://leaserv2:iamleasermoruk@cluster0.6cgeq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    }
+}
